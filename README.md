@@ -1,1 +1,3 @@
 # hypersonic_guidance
+这里我们是用python代码写的，然后这里的main.py以及main_function_comparison都是可以运行的主函数，一个是出来只是变形飞行器的状态量以及控制量的结果以及曲线图，一个是有变形飞行器和传统飞行器的两者对比的控制量和状态量。
+
